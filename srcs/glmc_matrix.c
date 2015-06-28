@@ -1,5 +1,4 @@
 #include <glmc.h>
-#include <string.h>
 #include <math.h>
 
 void			glmc_identity(t_mat4 dest)
