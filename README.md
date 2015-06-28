@@ -29,6 +29,6 @@ If you would like to add more stuff, pull requests are welcome.
 Compile the library with `make`, then link the satic library `libgmlc.a` to your program.
 
 ### Licence
-Copyright (c) 2015 <a href="https://github.com/paribro" target="_blank">paribro</a> <a href="https://github.com/qlitzler" target="_blank">qlitzler</a>
+Copyright (c) 2015 <a href="https://github.com/paribro" target="_blank">paribro</a> <a href="https://github.com/q-litzler" target="_blank">qlitzler</a>
 
 <a href="http://opensource.org/licenses/MIT" target="_blank">The MIT License</a>
