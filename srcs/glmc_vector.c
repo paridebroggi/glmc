@@ -45,11 +45,11 @@ void		glmc_normalize(t_vec3 v)
 	magnitude = sqrt(v[X] * v[X] + v[Y] * v[Y] + v[Z] * v[Z]);
 	if (magnitude == 0.0)
 	{
-        v[X] = 0.0;
-        v[Y] = 0.0;
-        v[Z] = 0.0;
-        return ;
-    }
+		v[X] = 0.0;
+        	v[Y] = 0.0;
+        	v[Z] = 0.0;
+        	return ;
+	}
 	v[X] /= magnitude;
 	v[Y] /= magnitude;
 	v[Z] /= magnitude;
