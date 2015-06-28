@@ -26,7 +26,7 @@ A **giga-super-ultra-complete** library that will do everything you need, the co
 If you would like to add more stuff, pull requests are welcome.
 
 ### Install
-Compile the library with `make`, then link the satic library `libgmlc.a` to your program.
+Compile the library with `make`, then link the static library `libgmlc.a` to your program.
 
 ### Licence
 Copyright (c) 2015 <a href="https://github.com/paribro" target="_blank">paribro</a> <a href="https://github.com/q-litzler" target="_blank">qlitzler</a>
